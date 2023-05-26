@@ -1,0 +1,11 @@
+C:\Users\ykurb\source\repos\GameSimulator\GameSimulator\bin\Debug\GameSimulator.exe.config
+C:\Users\ykurb\source\repos\GameSimulator\GameSimulator\bin\Debug\GameSimulator.exe
+C:\Users\ykurb\source\repos\GameSimulator\GameSimulator\bin\Debug\GameSimulator.pdb
+C:\Users\ykurb\source\repos\GameSimulator\GameSimulator\obj\Debug\COME334-QUIZ2-YİĞİTKURBETCİ.csproj.AssemblyReference.cache
+C:\Users\ykurb\source\repos\GameSimulator\GameSimulator\obj\Debug\COME334-QUIZ2-YİĞİTKURBETCİ.csproj.SuggestedBindingRedirects.cache
+C:\Users\ykurb\source\repos\GameSimulator\GameSimulator\obj\Debug\GameSimulator.Form1.resources
+C:\Users\ykurb\source\repos\GameSimulator\GameSimulator\obj\Debug\GameSimulator.Properties.Resources.resources
+C:\Users\ykurb\source\repos\GameSimulator\GameSimulator\obj\Debug\COME334-QUIZ2-YİĞİTKURBETCİ.csproj.GenerateResource.cache
+C:\Users\ykurb\source\repos\GameSimulator\GameSimulator\obj\Debug\COME334-QUIZ2-YİĞİTKURBETCİ.csproj.CoreCompileInputs.cache
+C:\Users\ykurb\source\repos\GameSimulator\GameSimulator\obj\Debug\GameSimulator.exe
+C:\Users\ykurb\source\repos\GameSimulator\GameSimulator\obj\Debug\GameSimulator.pdb
